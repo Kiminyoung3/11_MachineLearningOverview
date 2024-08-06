@@ -9,3 +9,4 @@ plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140, colors=["LightB
 
 plt.title("Subjects Distribution")
 plt.savefig("./results_chart")
+plt.show()
